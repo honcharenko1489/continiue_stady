@@ -18,10 +18,10 @@ public class Lesson25 {
         dog.showName();
         dog.name="Bobic";
         dog.showName();*/
-        Animal  an = new Dog();
+    /*    Animal  an = new Dog();
         an.showName();
         Dog dd = (Dog)new Animal();
         dd.showName();
-        Tree  t=  new Tree();
+        Tree  t=  new Tree();*/
     }
 }

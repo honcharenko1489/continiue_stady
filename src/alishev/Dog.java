@@ -1,8 +1,8 @@
 package alishev;
 
-public class Dog extends Animal {
+public class Dog  {
 
-   public void eat(){
+/*   public void eat(){
        System.out.println("dog  is  eating");
    }
 
@@ -14,5 +14,5 @@ public class Dog extends Animal {
     }
     public void bark(){
         System.out.println("BARK!");
-    }
+    }*/
 }
