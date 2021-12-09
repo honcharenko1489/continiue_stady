@@ -6,5 +6,6 @@ public class Tree {
     }
 
     protected String name;
+    private int  num;
 
 }
